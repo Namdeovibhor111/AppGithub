@@ -8,6 +8,7 @@ namespace AppGithub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Today is Thursday !!");
+            Console.WriteLine("Today is a Rainy day !!");
 
         }
     }
